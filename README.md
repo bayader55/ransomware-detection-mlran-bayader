@@ -13,8 +13,7 @@ explainability analysis (SHAP, t-SNE).
 
 ## 🚀 How to Run
 1. Open the notebook in Google Colab: https://colab.research.google.com/drive/1WjJKVPEgTPc8aE-UwJaUBvDAS5Rw_w4E?usp=sharing
-2. Run all cells in order (Cell 1 will auto-download the dataset)
-3. No manual setup required — all dependencies are pre-installed in Colab
+2. No manual setup required — all dependencies are pre-installed in Colab
 
 ## 📦 Dependencies
 scikit-learn, pandas, numpy, matplotlib, seaborn, shap, joblib
